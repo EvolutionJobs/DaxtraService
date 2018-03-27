@@ -8,6 +8,14 @@ but this is compatible with .NET Core's dependency injection model.
 
 This also serialises the result to .NET structured objects, see [Model](DaxtraService/Models).
 
+## Installation
+
+This package is [available on NuGet](https://www.nuget.org/packages/Evolution.Daxtra/1.0.0):
+
+```
+PM> Install-Package Evolution.Daxtra -Version 1.0.0
+```
+
 ## Startup Injection
 
 To add this service:
