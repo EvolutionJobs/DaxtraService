@@ -3,6 +3,18 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <RootNamespace>Evolution.Daxtra</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Evolution.Daxtra</PackageId>
+    <Authors>Keith Henry &lt;keith.henry@evolutionjobs.co.uk&gt;</Authors>
+    <Company>Evolution</Company>
+    <Product>Daxtra Service</Product>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/EvolutionJobs/DaxtraService/master/LICENSE</PackageLicenseUrl>
+    <Copyright>Copyright (c) 2018 Evolution Recruitment Solutions</Copyright>
+    <PackageProjectUrl>https://github.com/EvolutionJobs/DaxtraService</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/EvolutionJobs/DaxtraService</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <Description>.NET Core service to send CVs to Datxra's API. See http://cvxdemo.daxtra.com/cvx/</Description>
+    <ApplicationIcon>daxtra.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>

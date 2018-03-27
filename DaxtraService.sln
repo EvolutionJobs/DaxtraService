@@ -3,7 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaxtraService", "DaxtraService\DaxtraService.csproj", "{D4A76697-8428-491E-9EE5-39AB43758F6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaxtraService", "DaxtraService\DaxtraService.csproj", "{D4A76697-8428-491E-9EE5-39AB43758F6E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C4623BFD-E5DD-4080-BAF1-F5EC190CB35F}"
+	ProjectSection(SolutionItems) = preProject
+		CODE_OF_CONDUCT.md = CODE_OF_CONDUCT.md
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
